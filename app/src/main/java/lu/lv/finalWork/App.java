@@ -1,6 +1,7 @@
-package lu.lv.gradledemo.finalWork;
+package lu.lv.finalWork;
 
-import tryouts.tryouts.lesson11.finalWork.ui.ConsulUi;
+
+import lu.lv.finalWork.ui.ConsulUi;
 
 public class App {
 

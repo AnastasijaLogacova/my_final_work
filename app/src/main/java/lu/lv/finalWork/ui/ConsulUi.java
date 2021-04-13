@@ -1,7 +1,9 @@
-package lu.lv.gradledemo.finalWork.ui;
+package lu.lv.finalWork.ui;
 
-import tryouts.tryouts.lesson11.finalWork.model.ProductInputData;
-import tryouts.tryouts.lesson11.finalWork.service.ProductService;
+
+
+import lu.lv.finalWork.model.ProductInputData;
+import lu.lv.finalWork.service.ProductService;
 
 import java.util.Scanner;
 

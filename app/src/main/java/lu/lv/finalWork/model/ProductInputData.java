@@ -1,4 +1,4 @@
-package lu.lv.gradledemo.finalWork.model;
+package lu.lv.finalWork.model;
 
 public class ProductInputData {
 
@@ -12,7 +12,7 @@ public class ProductInputData {
         return name;
     }
 
-    public static void setName(String name) {
+    public void setName(String name) {
         this.name = name;
     }
 

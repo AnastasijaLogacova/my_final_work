@@ -1,4 +1,4 @@
-package lu.lv.gradledemo.finalWork.repository;
+package lu.lv.finalWork.repository;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package lu.lv.gradledemo.finalWork.model;
+package lu.lv.finalWork.model;
 
 import java.math.BigDecimal;
 import java.util.Objects;

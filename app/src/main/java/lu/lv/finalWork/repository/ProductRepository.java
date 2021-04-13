@@ -1,6 +1,8 @@
-package lu.lv.gradledemo.finalWork.repository;
+package lu.lv.finalWork.repository;
 
-import tryouts.tryouts.lesson11.finalWork.model.Product;
+
+
+import lu.lv.finalWork.model.Product;
 
 import java.util.ArrayList;
 import java.util.List;

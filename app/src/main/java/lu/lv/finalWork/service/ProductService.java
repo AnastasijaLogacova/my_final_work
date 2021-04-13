@@ -1,10 +1,12 @@
-package lu.lv.gradledemo.finalWork.service;
+package lu.lv.finalWork.service;
 
-import tryouts.tryouts.lesson11.finalWork.model.Product;
-import tryouts.tryouts.lesson11.finalWork.model.ProductCategory;
-import tryouts.tryouts.lesson11.finalWork.model.ProductData;
-import tryouts.tryouts.lesson11.finalWork.model.ProductInputData;
-import tryouts.tryouts.lesson11.finalWork.repository.ProductRepository;
+
+
+import lu.lv.finalWork.model.Product;
+import lu.lv.finalWork.model.ProductCategory;
+import lu.lv.finalWork.model.ProductData;
+import lu.lv.finalWork.model.ProductInputData;
+import lu.lv.finalWork.repository.ProductRepository;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
