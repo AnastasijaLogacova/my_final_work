@@ -1,0 +1,6 @@
+lu/lv/gradledemo/HelloWorld.java
+ lu.lv.gradledemo.HelloWorld
+lu/lv/gradledemo/Test.java
+ lu.lv.gradledemo.Test
+lu/lv/gradledemo/App.java
+ lu.lv.gradledemo.App

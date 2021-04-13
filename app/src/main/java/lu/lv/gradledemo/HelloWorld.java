@@ -1,4 +1,4 @@
-package lv.lu;
+package lu.lv.gradledemo;
 
 public class HelloWorld {
 
